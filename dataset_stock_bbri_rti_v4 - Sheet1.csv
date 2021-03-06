@@ -1,0 +1,101 @@
+no,headline_news,sentences,sentences_category,labels
+1,BRI himbau nasabah segera ganti ATM strip magnetik dengan kartu chip,PT Bank Rakyat Indonesia Tbk (BRI) terus melakukan sosialisasikan kepada nasabah yang masih memiliki kartu debit atau ATM yang masih menggunakan strip magnetik untuk segera diganti dengan kartu berbasis cip.,positive,1
+2,BRI himbau nasabah segera ganti ATM strip magnetik dengan kartu chip,"Pasalnya, semua kartu ATM sudah wajid menggunakan chip mulai akhir 2021.",negative,-1
+3,BRI himbau nasabah segera ganti ATM strip magnetik dengan kartu chip,"Hingga saat ini, semua kartu ATM BRI yang sudah migrasi ke chip mencapai 81,06% dari total jumlah kartu atm perseroan.",neutral,0
+4,BRI himbau nasabah segera ganti ATM strip magnetik dengan kartu chip,Artinya masih terdapat sekitar 18% lagi dari jumlah ATM bank ini yang masih. menggunakan strip magnetik,negative,-1
+5,BRI himbau nasabah segera ganti ATM strip magnetik dengan kartu chip,"Aestika Oryza gunarto, Sekretaris perusahaan BRI yakin migrasi kartu tersebut bisa tercapai waktunya sejalan dengan langkah dilakukan perseroan.",positive,1
+6,BRI himbau nasabah segera ganti ATM strip magnetik dengan kartu chip,"Kami Opimistis dapat memenuhi target yang telah ditetapkan pemerintah, ujarnya pada Kontan.co.id, kamis (25/2).",positive,1
+7,BRI himbau nasabah segera ganti ATM strip magnetik dengan kartu chip,Baca juga: Perhatian! ATM BNI masih pakai strip magnetik akan di blokir mulai 1 Mei 2021.,negative,-1
+8,BRI himbau nasabah segera ganti ATM strip magnetik dengan kartu chip,"Selain itu, BRI juga mengedukasi nasabah untuk melakukan transaksi tunai tanpa kartu dengan Aplikasi BRImo, yang dilakukan di 92% ATM dan CRM BRI.",positive,1
+9,BRI himbau nasabah segera ganti ATM strip magnetik dengan kartu chip,Adapun total jumlah ATM dan CRM bank ini mencapai  20.600 dan tesebar di seluruh indonesia.,neutral,0
+10,BRI himbau nasabah segera ganti ATM strip magnetik dengan kartu chip,Penggantian kartu debit berbasis strip magnetik menjadi cip sesuai dengan ketentuan Bank Indonesia berdasarkan Surat Edaran Bank Indonesia No. 17/52/DKSP tanggal 30 Desember 2015 tentang Implementasi Standar Nasional Teknologi Chip dan Penggunaan Personal Identification Number pada Kartu ATM dan / atau Kartu Debit yang diterbitkan di Indonesia.,positive,1
+11,BRI himbau nasabah segera ganti ATM strip magnetik dengan kartu chip,"Selanjutnya: Segera tukarkan kartu debit yang belum pakai cip, sebelum di terblokir",positive,1
+12,BRI himbau nasabah segera ganti ATM strip magnetik dengan kartu chip,[ Dina Mirayanti Hutauruk ],neutral,0
+13,BRI himbau nasabah segera ganti ATM strip magnetik dengan kartu chip,"Kontan Fri, 26 Feb 2021 ( 09:35:55 WIB )",neutral,0
+14,"Emdeki Utama (MDKI) Meraup kredit Rp 34,07 miliar dari Bank BRI (BBRI)",KONTAN.CO.ID - JAKARTA.,neutral,0
+15,"Emdeki Utama (MDKI) Meraup kredit Rp 34,07 miliar dari Bank BRI (BBRI)",PT Emdeki Utama TBK (MDKI) menandatangai perjanjian kredit dengan PT Bank Rakyat Indonesia Tbk (BBRI) yang dilakukan pada 19 Januari 2021.,negative,-1
+16,"Emdeki Utama (MDKI) Meraup kredit Rp 34,07 miliar dari Bank BRI (BBRI)","Mengutip keterbukaan informasi di laman Bursa Efek Indonesia, Rabu (24/2), BBRI memberi fasilitas kredit dengan total eksposur kredit sebesar Rp 34,07 miliar.",negative,-1
+17,"Emdeki Utama (MDKI) Meraup kredit Rp 34,07 miliar dari Bank BRI (BBRI)","Emdeki akan menggunakan dana ini untuk tiga keperluan, yakni kredit modal kerja (KMK), KMK import line (modal kerja impor), dan bank garansi.",positive,1
+18,"Emdeki Utama (MDKI) Meraup kredit Rp 34,07 miliar dari Bank BRI (BBRI)","Direktur MDKI Vincent Secapramana merinci, fasilitas KMK diberikan dengan jumlah fasilitas kredit Rp 15 miliar untuk tujuan tambahan modal kerja usaha industri kalsium karbida (karbit).",positive,1
+19,"Emdeki Utama (MDKI) Meraup kredit Rp 34,07 miliar dari Bank BRI (BBRI)","Kemudian, fasilitas KMK import line dengan jumlah fasilitas US$ 1 juta dan fasilitas import line dengan maksimum import line US$ 1juta.",positive,1
+20,"Emdeki Utama (MDKI) Meraup kredit Rp 34,07 miliar dari Bank BRI (BBRI)","Baca juga: Kinerja apik, volume penjualan Emdeki Utama (MDKI) naik 3,2% di tahun lalu",neutral,0
+21,"Emdeki Utama (MDKI) Meraup kredit Rp 34,07 miliar dari Bank BRI (BBRI)","Sementara fasilitas Bank Garansi senilai Rp 5 miliar digunakan untuk tujuan jaminan tender, jaminan pelaksanaan, jaminan uang muka, dan jaminan pemeliharaan, serta jaminan lainnya atas proyek - proyek akan diikuti dan yang akan dikerjakan oleh MDKI.",negative,-1
+22,"Emdeki Utama (MDKI) Meraup kredit Rp 34,07 miliar dari Bank BRI (BBRI)","Vincent menyebut, terkait keperluan kredit tersebut diperlukan agunan (jaminan) sebesar Rp 175,16 miliar, atau 20,80% dari total nilai ekuitas yang diambil berdasarkan laporan keuangan konsolidasi MDKI dan entitas anak audited 31 Desember 2019 dengan tanggal laporan keuangan 18 Maret 2020.",positive,1
+23,"Emdeki Utama (MDKI) Meraup kredit Rp 34,07 miliar dari Bank BRI (BBRI)","Di tengah pandemi, MDKI mampu mempertahankan pertumbuhan kinerja operational. MDKI mencatatkan volume penjualan kalsium karbit sebesar 20.910 ton sepanjang 2020.",positive,1
+24,"Emdeki Utama (MDKI) Meraup kredit Rp 34,07 miliar dari Bank BRI (BBRI)","Realisasi tersebut naik 3,2% dari realisasi penjualan MDKI pada 2019 yang hanya 20.260 ton.",positive,1
+25,"Emdeki Utama (MDKI) Meraup kredit Rp 34,07 miliar dari Bank BRI (BBRI)","Baca juga: PT Emdeki Utama Tbk (MDKI) Prediksi Cuan Tahun Ini Naik 33,67% [ Akhmad Suryadi ]",neutral,0
+26,"Emdeki Utama (MDKI) Meraup kredit Rp 34,07 miliar dari Bank BRI (BBRI)","KONTAN Thu, 21 Feb 2021 ( 20:12:37 WIB )",neutral,0
+27,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",KONTAN.CO.ID - JAKARTA.,neutral,0
+28,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","Bagi para pelaku usaha mikro, kecil, dan menengah (UMKM), ada penawaran menarik dari PT Bank Rakyat Indonesia.",positive,1
+29,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",BRI memberikan kesempatan kepada pelaku UMKM untuk mengajukan pinjaman kredit usaha rakyat (KUR) sebagai modal berdagang.,positive,1
+30,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","Salah satunya, program berupa pinjaman digital.",positive,1
+31,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","Corporate Secretary Bank Rakyat Indonesia (BRI), Aestika Oryza Gunarto, mengatakan, BRI memiliki 2 jenis pinjaman digital, yakni Ceria dan KUR Digital.",neutral,0
+32,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","""Perbedaan dari program pinjaman digital ini adalah untuk Ceria bersifat pinjaman konsumtif, sedangkan untuk KUR Diogital digunakan untuk tujuan produktif,"" yjar Aestika saat dihubungi Kompas.com. Kamis, (25/2/2021).",positive,1
+33,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","Baca juga: Cari  pertumbuhan baru di sektor UMKM, BRI sasar segmen ultra mikro",neutral,0
+34,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","Ceria Ia menjelaskan, pengajuan pinjaman online Ceria bisa dilakukan melalui aplikasi Ceria yang dapat diunduh melalui playstore. Pengajuan sepenuhnya secara digital melalui aplikasi Ceria.",positive,1
+35,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","Aestika mengatakan, pengajuan pinjaman saat ini hanya dapat dilakukan oleh nasabah yang telah mempunyai rekening BRI minimal 6 bulan.",positive,1
+36,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","""Pinjaman online Ceria mempunyai limit mulai dari 500 ribu hingga 20 juta rupiah,"" lanjut dia.",positive,1
+37,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",Baca Juga: 6 Persyaratan pengajuan KPR FLPP BRI,neutral,0
+38,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","Dilansir dari situs resmi Ceria BRI, ceriabri.com, disebutkan ada bebepara syarat dan ketentuan penggunaan Ceria. Syarat itu adalah:",neutral,0
+39,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",1. Pengajuan Produk Ceria dilakukan secara online melalui aplikasi CERIA yang disediakan oleh Bank BRI yang dapat diunduh menggunakan handphone Android melalui Playstore,neutral,1
+40,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",2. Kriteria calon nasabah Ceria Sebagai Berikut:,neutral,0
+41,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",- Warga Negara Indonesia,neutral,0
+42,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",- Nasabah Individu,neutral,0
+43,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",- Nasabah yang memiliki rekening simpanan di BRI,neutral,0
+44,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",- Berusia minimal 21 tahun sampai dengan maksimal 50 tahun,neutral,0
+45,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",- Memiliki bukti identitas diri berupa Elektronik KTP,neutral,0
+46,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","Baca Juga: ada KUR BRI tanpa agunan limit Rp 50 juta, ini cara dan syaratnya",neutral,0
+47,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",3. Melakukan foto diri/swafoto di aplikasi ceria,neutral,0
+48,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","Bagi Anda yang tertarik untuk meminjam di ceria, dapat mengunduh aplikasi Ceria di PlayStore.",positive,1
+49,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","Kemudian, lakukan registrasi Ceria dengan memasukkan nomor ponsel dan klik ""Sign Up"" pada aplikasi Ceria. Selanjutnya, masukkan kode OTP melalui SMS, dan buat nomor PIN.",positive,1
+50,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",Ada lima langkah untuk mengajukan pinjaman pada platform Ceria yatiu:,neutral,0
+51,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",1. Verifikasi rekening pendapatan,neutral,0
+52,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",2. Isi data pribadi keluarga dan keuangan,neutral,0
+53,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",3. Foto KTP anda,neutral,0
+54,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",4. Proses Digital Scoring,neutral,0
+55,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","5. Selamat! anda mendapat limit kredit. Klik ""Terima Penawaran"".",neutral,0
+56,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",KUR Digital BRI,neutral,0
+57,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",KUR Digital BRI bisa diakses melalui kur.bri.co.id dengan plafon maksimal Rp 50 juta.,neutral,0
+58,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","""Terobosan ini diciptakan BRI agar masyarakat tetap dapat mengajukan KUR dengan menjaga jarak tanpa perlu datang ke Kantor BRI,"" ujar Aestika.",positive,1
+59,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","Sama seperti pinjaman Ceria, ada sejumlah syarat untuk pengajuan KUR mikro BRI pada KUR Digital.",positive,1
+60,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",Syarat idu adalah,neutral,0
+61,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",1. Individu (perorangan),neutral,0
+62,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",2. Memiliki usaha minimal 6 bulan,neutral,0
+63,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","3. Menjalakan usaha di salah satu platform e-commerce atau ride hailing (Grad, Gojek, Tokopedia, Shopee, Aruna, Siapbos, Warung Pangan)",neutral,0
+64,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","4. Tidak sedang menerima kredit dari perbankan kecuali kredit konsumtif seperti KPR, KKB dan Kartu Kredit",neutral,0
+65,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","5. Persyaratan administrasi identitas berupa KTP, Kartu Keluarga (KK), dan surat izin usaha (dapat berupa surat keterangan yang diterbitkan oleh e-commerce atau ride hailing)",neutral,0
+66,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","Baca Juga: Ini cara dan syarat pengajuan pinjaman KUR BRI Dilansir dari situs resmi KUR BRI, kur.bri.co.id, ada dua jenis pengajuan KUR, yakni KUR untuk kebutuhan modal usaha, dan KUR secara massal oleh mitra e-commerce kerja sama.",neutral,0
+67,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",Untuk langkah pengajuan dapat disimak di link ini. Ini beberapa hal yang perlui diketahui dari meminjam KUR di BRI:,neutral,0
+68,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",1. Plafond KUR Mikro dengan maksimal pinjaman hingga Rp 50 juta.,neutral,0
+69,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","2. Suku bunga KUR mikro termasuk ringan, yakni sebesar 6 persen pa.",neutral,0
+70,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","3. Pilihan jangka waktu yang fleksibel yakni selama 12 bulan, 18 bulan, dan 24 bulan",neutral,0
+71,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",4. KUR bebas biaya administrasi dan provinsi,neutral,0
+72,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","Artikel ini telah tayang di Kompas.com dengan judul ""Pelaku UMKM Bisa Ajukan Pinjaman Digital BRI hingga Rp 50 Juta, Ini Caranya""",neutral,0
+73,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",Penulis: Retia Kartika Dewi,neutral,0
+74,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",Editor: Inggried Dwi Wedhaswary,neutral,0
+75,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","Selanjutnya: &#8203; ini cara dan syarat dapat KUR BRI tanpa agunan secara online 2021, limit Rp 50 juta",neutral,0
+76,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya",[ kompas.com ],neutral,0
+77,"Pelaku UMKM bisa ajukan pinjaman digital BRI hingga Rp 50 juta, bagaimana caranya","Kontan Thu, 25 Feb 2021 (14:25:14 WIB)",neutral,0
+78,Pertamina gandeng BRI sosialisasikan Program Pertashop ke 5000 agen Brilink,KONTAN.CO.ID - JAKARTA. ,neutral,0
+79,,Pertamina meneruskan penjajakan pola kemitraan Pertashop melalui fasilitas Kredit Usaha Rakyat (KUR) bersama PT Bank Rakyat Indonesia Tbk (BRI).,positive,1
+80,,"Sebelumnya, pola kemitraan Pertashop melalui KUR diusang dalam sosialisasi bersama Kementrian Koordinator Bidang Perekonomian (Kemenko Perekonomian) dimana fasilitas KUR diharapkan bisa mempermudah calon mitra Pertashop mengenai pola permodalannya.",positive,1
+81,,"Corporate Secretary PT Pertamina Patra Niaga Putut Andriatno, mengatakan sosialisasi Pertashop melalui fasilitas KUR ditujukan bagi 5000 Agen Brilink yang terbesar di seluruh Indonesia",positive,1
+82,,Kegiatan ini lanjutnya merupakan wujud sinergi BUMN untuk memcepat pemerataan energi berkualitas di seluruh Indonesia.,positive,1
+83,,,,
+84,,,,
+85,,,,
+86,,,,
+87,,,,
+88,,,,
+89,,,,
+90,,,,
+91,,,,
+92,,,,
+93,,,,
+94,,,,
+95,,,,
+96,,,,
+97,,,,
+98,,,,
+99,,,,
+100,,,,
